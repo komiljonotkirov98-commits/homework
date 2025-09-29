@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(28, 121, 93, 0.762);
+}
+.box{
+     text-align: center;
+    border: 2px solid rgb(65, 17, 17);
+    font-size: 60px;
+    background-color: rgb(65, 17, 17);
+    margin: auto;
+    width: 600px;
+    color: white;
+}
+.nager{
+     width: 900px;
+    height: 580px;
+    background-color: black;
+    margin: 40px  auto;
+    padding: 10px;
+    border: 10px solid red;
+}
+.text{
+     width: 850px;
+    height:  250px;
+    background-color: rgb(29, 185, 146);
+    margin: 20px auto;
+}
+.text{
+     width: 850px;
+    height:  250px;
+    background-color: rgb(29, 185, 146);
+    margin: 20px auto;
+}
+
+p{
+    font-size: 25px;
+    font-weight: 600;
+    padding: 50px;
+}
